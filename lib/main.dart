@@ -17,27 +17,3 @@ class MyApp extends StatelessWidget {
   }
 }
 
-// class HomePage extends StatefulWidget {
-//   const HomePage({super.key});
-//
-//   @override
-//   State<HomePage> createState() => _HomePageState();
-// }
-//
-// class _HomePageState extends State<HomePage> {
-//   @override
-//   Widget build(BuildContext context) {
-//     return Scaffold(
-//       appBar: AppBar(
-//         backgroundColor: Colors.lightGreen,
-//         title: Text("Home Page"),
-//       ),
-//       body: Container(
-//         child: Center(
-//           child: Text("Homepage Content"),
-//         ),
-//
-//       ),
-//     );
-//   }
-// }

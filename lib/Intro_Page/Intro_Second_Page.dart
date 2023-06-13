@@ -53,13 +53,7 @@ class Intro_Second_Page extends StatelessWidget {
               ),
             ),
           ),
-          // Positioned(
-          //     top: 750,
-          //     right: 10,
-          //     child: IconButton(icon: Icon(Icons.arrow_circle_right_sharp), onPressed: (  ) {
-          //       Navigator.push(context, MaterialPageRoute(builder: (context)=> Intro_Last_Slide()));
-          //     },iconSize: 50,tooltip: 'next',)
-          // ),
+
         ],
       ),
     );
